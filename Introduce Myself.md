@@ -17,3 +17,5 @@ This is my blog, and you'll get a lot of information if you visit.
 - 🔭 I’m currently working on AI & Computer Vision Lab in Advanced Institute of Convergence Technology (AICT) :kr:
 
 - :school: I study at INU but I am taking a leave of absence now.
+![winston1214's github stats](https://github-readme-stats.vercel.app/api?username=winston1214&show_icons=true)
+
