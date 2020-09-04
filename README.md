@@ -17,5 +17,3 @@ This is my blog, and you'll get a lot of information if you visit.
 - 🔭 I’m currently working on AI & Computer Vision Lab in Advanced Institute of Convergence Technology (AICT) :kr:
 
 - :school: I study at INU but I am taking a leave of absence now.
-
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=winston1214)](https://solved.ac/kinetic27)
