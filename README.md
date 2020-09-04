@@ -14,6 +14,6 @@ I'm gonna give you a lot of commits, so press the **star** :star: button.
 This is my blog, and you'll get a lot of information if you visit.
 
 
-- 🔭 I’m currently working on AI & Computer Vision Lab in Advanced Institute of Convergence Technology (AICT) 
+- 🔭 I’m currently working on AI & Computer Vision Lab in Advanced Institute of Convergence Technology (AICT) :kr:
 
 - :school: I study at INU but I am taking a leave of absence now.
