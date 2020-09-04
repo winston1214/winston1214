@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!--
-**winston1214/winston1214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm studying because I want to be a **data scientist**! 
 
-Here are some ideas to get you started:
+I mainly studied a lot of data analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+And now I'm studying ***Object Detection*** among Computer Vision.
+
+I'm gonna give you a lot of commits, so press the **star** :star: button.
+
+**[http://bigdata-analyst.tistory.com/]**  :point_left: Click Here! 
+
+:point_up: 
+This is my blog, and you'll get a lot of information if you visit.
+
+
+- 🔭 I’m currently working on AI & Computer Vision Lab in Advanced Institute of Convergence Technology (AICT) 
+
+- :school: I study at INU but I am taking a leave of absence now.
