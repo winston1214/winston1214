@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I'm studying because I want to be a **data scientist**! 
+I'm studying because I want to be a **Data scientist**! 
 
 I mainly studied a lot of data analysis.
 
