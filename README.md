@@ -1,25 +1,22 @@
-### Hi there 👋 
+# Repository Description
 
-I'm studying because I want to be a **Data scientist**! 
+- <a href='https://github.com/winston1214/AICT'>AICT</a>
 
-I mainly studied a lot of data analysis.
+- <a href='https://github.com/winston1214/project'> project </a>
 
-And now I'm studying ***Object Detection*** among Computer Vision.
+- <a href='https://github.com/winston1214/OpenCV-YOLO'>OpenCV-YOLO</a>
 
-I'm gonna give you a lot of commits, so press the **star** :star: button.
+- <a href='https://github.com/winston1214/baekjoon'>baekjoon</a>
 
-**[http://bigdata-analyst.tistory.com/]**  :point_left: Click Here! 
+- <a href='https://github.com/winston1214/Pytorch-First-Step'>Pytorch-First-Step</a>
 
-:point_up: 
-This is my blog, and you'll get a lot of information if you visit.
+- <a href='https://github.com/winston1214/Data-structure'>Data-structure</a>
+
+- <a href='https://github.com/winston1214/baseline_ML'>baseline_ML</a>
+
+- <a href='https://github.com/winston1214/crawling_code'>crawling_code</a>
 
 ![winston1214's github stats](https://github-readme-stats.vercel.app/api?username=winston1214&show_icons=true)
 
-
-
-
-- 🔭 I’m currently working on AI & Computer Vision Lab in Advanced Institute of Convergence Technology (AICT) :kr:
-
-- :school: I study at INU but I am taking a leave of absence now.
 
 
