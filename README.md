@@ -4,7 +4,7 @@
 - :star: <a href='https://github.com/winston1214/AICT'>AICT</a> : 
 - <a href='https://github.com/winston1214/project'>project</a> : Data Analysis Project(Kaggle,Individual Project, Team Project etc..)
 - <a href='https://github.com/winston1214/OpenCV-YOLO'>OpenCV-YOLO</a> : Computer Vision Basic Study - mainly OpenCV & YOLO
-  - <a href='https://github.com/winston1214/OpenCV-YOLO/tree/master/prac_opencv'>Basic opencv & Description(ref. readme)</a>
+  - <a href='https://github.com/winston1214/OpenCV-YOLO/tree/master/prac_opencv'>Basic opencv & Description(ref. README)</a>
   - <a href='https://github.com/winston1214/OpenCV-YOLO/tree/master/Yolo_mark'>YOlO_MARK(for Image Labeling) & How to use(ref. redme)</a>
   - <a href='https://github.com/winston1214/OpenCV-YOLO/tree/master/yolo'>Yolov3(simple)</a>
 - <a href='https://github.com/winston1214/baekjoon'>baekjoon</a> : Algorithm study for coding test
