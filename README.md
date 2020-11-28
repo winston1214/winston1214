@@ -1,7 +1,7 @@
 💚<a href='https://bigdata-analyst.tistory.com/'>My Blog</a>💚
 # Repository Description
 
-- :star: <a href='https://github.com/winston1214/AICT'>AICT</a> : 
+- :star: <a href='https://github.com/winston1214/AICT'>AICT</a> : Project of AICT Internship
   - <a href='https://github.com/winston1214/AICT/tree/master/yolov5'> Object Detection(Person,Car) to YOLOv5</a>
   - <a href='https://github.com/winston1214/AICT/tree/master/Tram/geocoding'>Geocoding(Lat-Lon Calculator & Folium Visualization)</a>
 - <a href='https://github.com/winston1214/project'>project</a> : Data Analysis Project(Kaggle,Individual Project, Team Project etc..)
