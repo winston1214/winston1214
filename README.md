@@ -3,6 +3,8 @@
 
 🥇  <img src="https://img.shields.io/badge/Python-3776AB?style={style}&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style={style}&logo=PyTorch&logoColor=white"/></a><img src="https://img.shields.io/badge/Ubuntu-E95420?style={style}&logo=Ubuntu&logoColor=white"/>      🥈  <img src="https://img.shields.io/badge/R-276DC3?style={style}&logo=R&logoColor=white"/><img src="https://img.shields.io/badge/ROS-22314E?style={style}&logo=ROS&logoColor=white"/></a><img src="https://img.shields.io/badge/PostgreSQL-336791?style={style}&logo=PostgreSQL&logoColor=white"/></a></a><img src="https://img.shields.io/badge/Qgis-589632?style={style}&logo=Qgis&logoColor=white"/></a><img src="https://img.shields.io/badge/NVIDIA_MiniPC-76B900?style={style}&logo=NVIDIA&logoColor=white"/>   
 
+<a href='https://github.com/winston1214/winston1214/blob/master/%EA%B9%80%EC%98%81%EB%AF%BC_CV.pdf'>CV</a>
+
 ## Project
 - <a href='https://github.com/winston1214/project'>project</a> : Data Analysis Project(Kaggle,Individual Project, Team Project etc..)
 - <a href='https://github.com/winston1214/AICT'>AICT</a> : Project of AICT Internship( <a href='https://github.com/winston1214/AICT/tree/master/yolov5'>YOLOv5</a>,<a href='https://github.com/winston1214/AICT/tree/master/Tram/geocoding'>Geocoding</a>,<a href='https://github.com/winston1214/AICT/tree/master/yolov5_motion'>YOLOv5_motion</a>,<a href='https://github.com/winston1214/AICT/tree/master/ROS'>How to ROS</a> )
