@@ -1,12 +1,12 @@
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=T-Mobile#E20074&link=https://bigdata-analyst.tistory.com/)](https://bigdata-analyst.tistory.com/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:winston121497@gmail.com)](mailto:winston121497@gmail.com)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?&logo=T-Mobile#E20074&link=https://bigdata-analyst.tistory.com/)](https://bigdata-analyst.tistory.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?&logo=Gmail&logoColor=white&link=mailto:winston121497@gmail.com)](mailto:winston121497@gmail.com)
+<a href="https://github.com/winston1214/winston1214/blob/master/%EA%B9%80%EC%98%81%EB%AF%BC_CV.pdf">
+    <img 
+        src="https://img.shields.io/badge/Sketch-black?&logo=Sketch#F7B500&logoColor=white&link=https://github.com/winston1214/winston1214/blob/master/%EA%B9%80%EC%98%81%EB%AF%BC_CV.pdf"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwinston1214%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Sketch Badge]('https://img.shields.io/badge/Sketch?style=flat-square&logo=Sketch#F7B500&logoColor=white&link=https://github.com/winston1214/winston1214/blob/master/%EA%B9%80%EC%98%81%EB%AF%BC_CV.pdf')](https://github.com/winston1214/winston1214/blob/master/%EA%B9%80%EC%98%81%EB%AF%BC_CV.pdf)
-
-<img src='https://img.shields.io/badge/CV-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://github.com/winston1214/winston1214/blob/master/%EA%B9%80%EC%98%81%EB%AF%BC_CV.pdf'></img>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwinston1214%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-🥇  <img src="https://img.shields.io/badge/Python-3776AB?style={style}&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style={style}&logo=PyTorch&logoColor=white"/></a><img src="https://img.shields.io/badge/Ubuntu-E95420?style={style}&logo=Ubuntu&logoColor=white"/>      🥈  <img src="https://img.shields.io/badge/R-276DC3?style={style}&logo=R&logoColor=white"/><img src="https://img.shields.io/badge/ROS-22314E?style={style}&logo=ROS&logoColor=white"/></a><img src="https://img.shields.io/badge/PostgreSQL-336791?style={style}&logo=PostgreSQL&logoColor=white"/></a></a><img src="https://img.shields.io/badge/Qgis-589632?style={style}&logo=Qgis&logoColor=white"/></a><img src="https://img.shields.io/badge/NVIDIA_MiniPC-76B900?style={style}&logo=NVIDIA&logoColor=white"/>   
+🥇  <img src="https://img.shields.io/badge/Python-3776AB?style={style}&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style={style}&logo=PyTorch&logoColor=white"/></a><img src="https://img.shields.io/badge/Ubuntu-E95420?style={style}&logo=Ubuntu&logoColor=white"/>      🥈  <img src="https://img.shields.io/badge/R-276DC3?style={style}&logo=R&logoColor=white"/><img src="https://img.shields.io/badge/ROS-22314E?style={style}&logo=ROS&logoColor=white"/></a><img src="https://img.shields.io/badge/PostgreSQL-336791?style={style}&logo=PostgreSQL&logoColor=white"/></a></a><img src="https://img.shields.io/badge/Qgis-589632?style={style}&logo=Qgis&logoColor=white"/></a><img src="https://img.shields.io/badge/Jetson Nano-76B900?&logo=NVIDIA&logoColor=white"/></a><img src="https://img.shields.io/badge/Jetson Xavier-76B900?&logo=NVIDIA&logoColor=white"/></a>  
 
 
 
