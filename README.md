@@ -37,7 +37,7 @@
 - <a href='https://github.com/winston1214/BOAZ'>BOAZ</a>👨‍👨‍👧‍👧
 - <a href='https://github.com/winston1214/OpenCV-YOLO'>OpenCV-YOLO</a> : Computer Vision Basic Study - mainly OpenCV & YOLO
   - <a href='https://github.com/winston1214/OpenCV-YOLO/tree/master/prac_opencv'>Basic opencv & Description(ref. README)</a>
-  - <a href='https://github.com/winston1214/OpenCV-YOLO/tree/master/Yolo_mark'>YOlO_MARK(for Image Labeling) & How to use(ref. README)</a>
+  - <a href='https://github.com/winston1214/OpenCV-YOLO/tree/master/Yolo_mark'>YOLO_MARK(for Image Labeling) & How to use(ref. README)</a>
 - <a href='https://github.com/winston1214/INU'>INU</a> : Summary of INU classes 🏫
 - <a href='https://github.com/winston1214/Linear_Algebra'>Linear Algebra</a> : Study to Linear Algebra
 ## Etc
