@@ -11,8 +11,8 @@
     <a href='mailto:winston121497@gmail.com'>
         <img src='https://img.shields.io/badge/Gmail-d14836?&logo=Gmail&logoColor=white&link=mailto:winston121497@gmail.com'/>
     </a>
-    <a href='https://hits.seeyoufarm.com'>
-        <img src='https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwinston1214%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false'/>
+    <a href='https://github.com/winston1214/My_paper'>
+        <img src='https://img.shields.io/badge/My Paper-yellow?&logo=Paddy-Power#004833&link=https://github.com/winston1214/My_paper'/>
     </a>
 </p>
 <p align='center'>
