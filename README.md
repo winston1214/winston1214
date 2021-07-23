@@ -4,6 +4,9 @@
              src="https://img.shields.io/badge/CV-black?&logo=Sketch#F7B500&logoColor=white&link=https://github.com/winston1214/winston1214/blob/master/%EA%B9%80%EC%98%81%EB%AF%BC_CV.pdf"
                                    style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     </a>
+    <a href='https://github.com/winston1214/My_paper'>
+        <img src='https://img.shields.io/badge/My Paper-yellow?&logo=Paddy-Power#004833&link=https://github.com/winston1214/My_paper'/>
+    </a>
     <a href='https://bigdata-analyst.tistory.com/'>
         <img
              src='http://img.shields.io/badge/-Tech%20blog-black?&logo=T-Mobile#E20074&link=https://bigdata-analyst.tistory.com/'/>
@@ -11,9 +14,7 @@
     <a href='mailto:winston121497@gmail.com'>
         <img src='https://img.shields.io/badge/Gmail-d14836?&logo=Gmail&logoColor=white&link=mailto:winston121497@gmail.com'/>
     </a>
-    <a href='https://github.com/winston1214/My_paper'>
-        <img src='https://img.shields.io/badge/My Paper-yellow?&logo=Paddy-Power#004833&link=https://github.com/winston1214/My_paper'/>
-    </a>
+
 </p>
 <p align='center'>
 🥇  <img src="https://img.shields.io/badge/Python-3776AB?style={style}&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style={style}&logo=PyTorch&logoColor=white"/></a><img src="https://img.shields.io/badge/Ubuntu-E95420?style={style}&logo=Ubuntu&logoColor=white"/>      🥈  <img src="https://img.shields.io/badge/R-276DC3?style={style}&logo=R&logoColor=white"/><img src="https://img.shields.io/badge/ROS-22314E?style={style}&logo=ROS&logoColor=white"/></a><img src="https://img.shields.io/badge/PostgreSQL-336791?style={style}&logo=PostgreSQL&logoColor=white"/></a></a><img src="https://img.shields.io/badge/Qgis-589632?&logo=Qgis&logoColor=white"/></a><img src="https://img.shields.io/badge/Jetson Nano-76B900?&logo=NVIDIA&logoColor=white"/></a><img src="https://img.shields.io/badge/Jetson Xavier-76B900?&logo=NVIDIA&logoColor=white"/></a></p>
