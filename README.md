@@ -27,6 +27,7 @@
 - <a href='https://github.com/winston1214/ROS-YOLOv5'>ROS-YOLOv5</a> : Yolov5 in ROS(+Time to Collision Calculate) ⛔Secret..(Sorry..)  
 - <a href='https://github.com/winston1214/Car_Counting'>Object Counting</a> : Object Counting using YOLOv5 & DeepSort
 - <a href='https://github.com/winston1214/Object_Detection_Drone'>Object Detection in Drone</a> : Object Detection in Drone(contains UI)
+- <a href='https://github.com/winston1214/Smart_ATM'>SMART ATM</a> : AI hub Idea Contest First Prize Code
 
 ## Study
 - <a href='https://github.com/winston1214/Pytorch-First-Step'>Pytorch-First-Step</a> : Pytorch Study - basics
