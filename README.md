@@ -28,6 +28,7 @@
 - <a href='https://github.com/winston1214/Car_Counting'>Object Counting</a> : Object Counting using YOLOv5 & DeepSort
 - <a href='https://github.com/winston1214/Object_Detection_Drone'>Object Detection in Drone</a> : Object Detection in Drone(contains UI)
 - <a href='https://github.com/winston1214/Smart_ATM'>SMART ATM</a> : AI hub Idea Contest First Prize Code 🥇
+- <a href='https://github.com/winston1214/Sign-Langugage-project'>Sign-Language Translation</a> : BOAZ 15th Conference Project 👨‍👨‍👧‍👧
 
 ## Study
 - <a href='https://github.com/winston1214/Pytorch-First-Step'>Pytorch-First-Step</a> : Pytorch Study - basics
