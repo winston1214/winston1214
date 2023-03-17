@@ -1,5 +1,5 @@
 <p align='center'>
-    <a href="https://github.com/winston1214/winston1214/blob/master/CV/Resume%20YOUNGMIN%20KIM.pdf">
+    <a href="https://github.com/winston1214/winston1214/blob/master/CV/Ym__Kim_CV.pdf">
         <img 
              src="https://img.shields.io/badge/CV-black?&logo=Sketch#F7B500&logoColor=white&link=https://github.com/winston1214/winston1214/blob/master/CV/Ym__Kim_CV.pdf"
                                    style="height : auto; margin-left : 10px; margin-right : 10px;"/>
