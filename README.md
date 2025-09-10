@@ -4,14 +4,14 @@
              src="https://img.shields.io/badge/CV-black?&logo=Sketch#F7B500&logoColor=white&link=https://github.com/winston1214/winston1214/blob/master/CV/Ym__Kim_CV.pdf"
                                    style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     </a>
-    <a href='https://github.com/winston1214/My_paper'>
+<!--     <a href='https://github.com/winston1214/My_paper'>
         <img src='https://img.shields.io/badge/My Paper-yellow?&logo=Paddy-Power#004833&link=https://github.com/winston1214/My_paper'/>
-    </a>
+    </a> -->
     <a href='https://bigdata-analyst.tistory.com/'>
         <img
              src='http://img.shields.io/badge/-Tech%20blog-black?&logo=T-Mobile#E20074&link=https://bigdata-analyst.tistory.com/'/>
     </a>
-    <a href='mailto:winston121497@gmail.com'>
+    <a href='mailto:winston1214@yonsei.ac.kr'>
         <img src='https://img.shields.io/badge/Gmail-d14836?&logo=Gmail&logoColor=white&link=mailto:winston121497@gmail.com'/>
     </a>
 
